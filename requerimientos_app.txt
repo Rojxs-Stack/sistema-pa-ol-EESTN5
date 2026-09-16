@@ -1,0 +1,19 @@
+- Crear usuario de pañol para los diferentes pañoleros tengan sus cuentas
+- Cerrar sesion de las diferentes cuentas de los pañoleros
+- Tener una lista de todas las herramientas y las cantidad de ellas
+- Crear una nueva herramienta (nombre y cantidad)
+- Tener una lista de todos los docentes
+- Poder agregar o crear un docentes
+- Tener una lista de todos los cursos
+- Poder crear algun curso
+(esto para seleccionar profesor y el curso que se lleva las herramientas)
+- Crear una nueva lista de herramientas
+    . Registrar profesor
+    . Registrar curso
+    . Registrar herramientas a llevar
+    . "Guardar"
+
+- Seleccionar una lista creada y marcar uno por uno lo que se entregó
+    . si faltó a entregar, que se muestre en el panel princicpal y poner el motivo de por que no se entregó y poder
+    . marcar si se entrego, se rompio o desaparecio. En esos casos descontar del stock automaticamente.
+
